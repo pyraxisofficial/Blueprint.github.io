@@ -27,7 +27,6 @@ See `BOM.csv` for a detailed, itemized list of all required components, quantiti
 | ESP32           | Microcontroller   | [link](#)      | 1   |
 | Buttons         | Tactile switches  | [link](#)      | 6+  |
 | Vibrators       | Haptic motors     | [link](#)      | 6   |
-| Micro-USB Cable | Power/Data cable  | [link](#)      | 1   |
 | Circuit Board   | Custom PCB        | [link](#)      | 1   |
 
 ## Getting Started
