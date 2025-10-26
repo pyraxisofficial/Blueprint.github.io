@@ -1,6 +1,8 @@
-Product Name,Description,Product Link,Unit Price,Quantity,Total Price
-ESP32,Microcontroller,"https://example.com/esp32",200,2,400
-Buttons,Tactile switches,"https://example.com/buttons",10,6,60 
-Vibrators,Haptic motors,"https://example.com/vibrator",20,6,120 
+Product Name,Description,Product Link,Unit Price (₹),Quantity,Total Price (₹)
+ESP32,Microcontroller,"https://example.com/esp32",250,2,500
+Micro Push Buttons,Tactile switches,"https://example.com/buttons",10,22,220
+Coin Vibration Motor,Haptic motors,"https://example.com/vibrator",20,6,120
 Circuit Board,Custom PCB,"https://example.com/pcb",200,1,200
- , , , , ,780 TOTAL
+PAM8403, Audio Amplifier Board,"",75,1,75
+PS2 Joystick, Joystick,"",70,1,70
+ , , , , , 1185 TOTAL
