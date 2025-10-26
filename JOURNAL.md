@@ -14,3 +14,10 @@ I made controller design, in blender. This controller has extra buttons, that ha
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--7bb71841fb0c9e19cedbe91e82d8e77381f92a33/image.png)
   
 
+## 10/26/2025 - Routed The PCB  
+
+Routed The PCB to the buttons and the ESP32, it took some time, but got it woking. this was done in EasyEDA. Now time to turn this vision into a reality.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--cf7efbd4e8e77143fa9dd3f6ab3f7e4c554e774c/image.png)
+  
+
