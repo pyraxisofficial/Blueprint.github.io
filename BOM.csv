@@ -1,6 +1,6 @@
 Product Name,Description,Product Link,Unit Price,Quantity,Total Price
-ESP32,Microcontroller,"https://example.com/esp32",200,1,200
+ESP32,Microcontroller,"https://example.com/esp32",200,2,400
 Buttons,Tactile switches,"https://example.com/buttons",10,6,60 
-Vibrators,Haptic motors,"https://example.com/vibrator",15,6,90 
+Vibrators,Haptic motors,"https://example.com/vibrator",20,6,120 
 Circuit Board,Custom PCB,"https://example.com/pcb",200,1,200
- , , , , ,550 TOTAL
+ , , , , ,780 TOTAL
