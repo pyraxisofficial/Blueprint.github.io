@@ -1,7 +1,7 @@
 # Braille Controller & Keyboard Combo
 
 ## Overview
-The **Braille Controller & Keyboard Combo** is a project designed to make everyday computer use—including web browsing and routine digital tasks—much easier and more accessible for everyone, especially for people with disabilities. By integrating tactile feedback and accessible controls, our device empowers users who are blind, visually impaired, or differently abled to interact effortlessly with modern computers.
+The **Braille Controller & Keyboard Combo** is a project designed to make everyday computer use—including web browsing and routine digital tasks—much easier and more accessible for everyone, especially for people with disabilities.Our device empowers users who are blind, visually impaired, or differently abled to interact effortlessly with modern computers.
 
 ## Why We Made This
 We began this project at the school level for presentation at a tech expo, inspired by a desire to make technology inclusive and genuinely helpful for all users, regardless of ability. Our goal was to bridge digital divides and empower individuals with accessible, affordable tech.
