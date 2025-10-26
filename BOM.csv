@@ -4,5 +4,6 @@ Micro Push Buttons,Tactile switches,"https://example.com/buttons",10,22,220
 Coin Vibration Motor,Haptic motors,"https://example.com/vibrator",20,6,120
 Circuit Board,Custom PCB,"https://example.com/pcb",200,1,200
 PAM8403, Audio Amplifier Board,"",75,1,75
+PAM8403 (Knob), Knob For Volume,"",80,1,80
 PS2 Joystick, Joystick,"",70,1,70
- , , , , , 1185 TOTAL
+ , , , , , 1265 TOTAL
