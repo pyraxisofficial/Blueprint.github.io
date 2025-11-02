@@ -24,10 +24,10 @@ See `BOM.csv` for a detailed, itemized list of all required components, quantiti
 
 | Component       | Description        | Example Source | Qty |
 |-----------------|-------------------|----------------|-----|
-| ESP32           | Microcontroller   | [link](#)      | 1   |
-| Buttons         | Tactile switches  | [link](#)      | 6+  |
-| Vibrators       | Haptic motors     | [link](#)      | 6   |
-| Circuit Board   | Custom PCB        | [link](#)      | 1   |
+| ESP32           | Microcontroller   | 2   |
+| Buttons         | Tactile switches  | 22  |
+| Vibrators       | Haptic motors     | 8   |
+| Circuit Board   | Custom PCB        | 1   |
 
 ## Getting Started
 1. **Assemble** the components as described in the wiring diagram.
