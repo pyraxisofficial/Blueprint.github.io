@@ -1,9 +1,8 @@
-Product Name,Description,Product Link,Unit Price (₹),Quantity,Total Price (₹)
-ESP32,Microcontroller,"https://example.com/esp32",250,2,500
-Micro Push Buttons,Tactile switches,"https://example.com/buttons",10,22,220
-Coin Vibration Motor,Haptic motors,"https://example.com/vibrator",20,6,120
-Circuit Board,Custom PCB,"https://example.com/pcb",200,1,200
-PAM8403, Audio Amplifier Board,"",75,1,75
-PAM8403 (Knob), Knob For Volume,"",80,1,80
-PS2 Joystick, Joystick,"",70,1,70
- , , , , , 1265 TOTAL
+Product Name,Description,Product Link,Unit Price (₹),Quantity,Total Price ($)
+ESP32,Microcontroller,"https://www.amazon.com/ELEGOO-ESP-WROOM-32-Development-Bluetooth-Microcontroller/dp/B0D8T53CQ5/ref=sr_1_1?keywords=esp32",6,2,12
+Micro Push Buttons,Tactile switches,"Unavailable",3,22,66
+Coin Vibration Motor,Haptic motors,"Unavailable",5,6,30
+Circuit Board,Custom PCB,"Unavailable",5,1,5
+PAM8403, Audio Amplifier Board,"https://www.amazon.com/Ferwooh-PAM8403-Amplifier-Dual-Channel-Potentiometer/dp/B0D1FZLX93",7,2,14
+PS2 Joystick, Joystick,"https://www.amazon.com/Joystick-Console-Dual-Axis-Compatible-Raspberry/dp/B0D83FD3M8",2,1,2
+ , , , , , 129 TOTAL
