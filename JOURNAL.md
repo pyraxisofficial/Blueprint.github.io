@@ -28,7 +28,7 @@ Just Like the Braille Controller, this is also using haptics. it gives output in
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c88b71e07bc63fd7a46c8849371901b9c8cc82c4/image.png)
   
 
-## 11/2/2025 - Re-Routed The PCB  
+## 11/2/2025 7 PM - Re-Routed The PCB  
 
 The other version was a little wonky, and had a few problems, so finally i rerouted the PCB,
 This one has **8 buttons**, **4 Programmable buttons** and **2 ESP32**'s
@@ -37,5 +37,14 @@ This one has **8 buttons**, **4 Programmable buttons** and **2 ESP32**'s
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzc2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b07d842c164ecee9302ef8a057731743723cf608/image.png)
 
+  
+
+## 11/2/2025 9 PM - Sample Prototype  
+
+Made A Sample but working prototype for the braille keyboard. it uses the ESP32, took lots of time for the soldering. there are only 6 buttons for entering, but the vibrations work. you can receive output. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzgwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--a924d7b8479a32e405d0032cab19368f89b10abb/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzgwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb690cee13ee291e88fb970a456b020fe60a02d0/image.png)
   
 
