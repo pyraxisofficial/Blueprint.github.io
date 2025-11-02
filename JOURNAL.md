@@ -28,3 +28,14 @@ Just Like the Braille Controller, this is also using haptics. it gives output in
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c88b71e07bc63fd7a46c8849371901b9c8cc82c4/image.png)
   
 
+## 11/2/2025 - Re-Routed The PCB  
+
+The other version was a little wonky, and had a few problems, so finally i rerouted the PCB,
+This one has **8 buttons**, **4 Programmable buttons** and **2 ESP32**'s
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzc2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--63b6b6973c270e1979f4b629947fe56463460639/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzc2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--b07d842c164ecee9302ef8a057731743723cf608/image.png)
+
+  
+
