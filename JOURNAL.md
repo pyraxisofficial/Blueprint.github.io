@@ -39,12 +39,21 @@ This one has **8 buttons**, **4 Programmable buttons** and **2 ESP32**'s
 
   
 
-## 11/2/2025 9 PM - Sample Prototype  
+## 11/2/2025 9:41 PM - Sample Prototype  
 
 Made A Sample but working prototype for the braille keyboard. it uses the ESP32, took lots of time for the soldering. there are only 6 buttons for entering, but the vibrations work. you can receive output. 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzgwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--a924d7b8479a32e405d0032cab19368f89b10abb/image.png)
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzgwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--eb690cee13ee291e88fb970a456b020fe60a02d0/image.png)
+  
+
+## 11/2/2025 9:52 PM - Made a Browser Around This. Made UI For sending output   
+
+Soo, i made a browser named pyraxis browser, available at (HERE)[https://pyraxis.rf.gd], now you can give output and receive outputs. there are a lot of other features that i implemented. This was made using html, css, python and c++.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzgxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--0b2ad9b80c0d4ac84ea14ed8a7e908e71649803b/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzgxMywicHVyIjoiYmxvYl9pZCJ9fQ==--f23d784bf6bcd953c2a6aabc42747b51fa739b91/image.png)
   
 
